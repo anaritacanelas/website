@@ -29,7 +29,7 @@ export default function Home() {
               </li>
               <li className="h-5 md:h-10">
                 <a
-                  href="https://www.linkedin.com/in/ana-rita-silva-387a6aab/"
+                  href="https://www.linkedin.com/in/rita-ferreira-silva/"
                   target="_blank"
                 >
                   <Image
@@ -40,7 +40,7 @@ export default function Home() {
                 </a>
               </li>
               <li className="h-5 md:h-10">
-                <a href="https://github.com/anaritacanelas" target="_blank">
+                <a href="https://github.com/ritaferreirasilva" target="_blank">
                   <Image
                     src={github}
                     alt="Github"
