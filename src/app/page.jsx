@@ -24,6 +24,7 @@ export default function Home() {
                     src={mail}
                     alt="Email"
                     style={{ width: "100%", height: "100%" }}
+                    className="duration-300 hover:scale-110"
                   />
                 </a>
               </li>
@@ -36,6 +37,7 @@ export default function Home() {
                     src={linkedin}
                     alt="Linkedin"
                     style={{ width: "100%", height: "100%" }}
+                    className="duration-300 hover:scale-110"
                   />
                 </a>
               </li>
@@ -45,6 +47,7 @@ export default function Home() {
                     src={github}
                     alt="Github"
                     style={{ width: "100%", height: "100%" }}
+                    className="duration-300 hover:scale-110"
                   />
                 </a>
               </li>
